@@ -1,7 +1,6 @@
 #!/bin/ksh
-# Copyright 2010, Truveris Inc. All Rights Reserved.
 #
-# This will serve Truffle endlessly for development purpose.
+# This will serve MeteoGlobal endlessly for development purpose.
 #
 
 if [ ! -e "setup.py" ]; then
@@ -9,10 +8,7 @@ if [ ! -e "setup.py" ]; then
 	exit
 fi
 
-BASE=$HOME/truveris/portal/pyport/virtualenv
-PASTER=$BASE/bin/paster
-
-. $BASE/bin/activate
+. ../virtualenv/bin/activate
 
 while :; do
 	paster serve --reload development.ini $*;
