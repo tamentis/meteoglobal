@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: meteoglobal
+Version: 0.0
+Summary: meteoglobal
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: meteoglobal README
+        
+        
+        
+        
+        
+        0.1
+        ---
+        
+        - Initial version
+        
+Keywords: web pylons pyramid
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pylons
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
