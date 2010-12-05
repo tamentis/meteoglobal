@@ -1,4 +1,2 @@
 meteoglobal README
 
-
-
