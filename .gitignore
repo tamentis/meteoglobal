@@ -1,0 +1,5 @@
+meteoglobal.db
+*pyc
+
+templates/
+*py
