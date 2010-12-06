@@ -12,6 +12,7 @@ Type 1 meteoglobal box
  - Humidity
  - Atmospheric pressure
  - Wind velocity
+ - Weather vane
 
 Type 2 meteoglobal box
 ----------------------
